@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fa4909d.css",
-    "main.js": "/static/js/main.6b1dd9ee.js",
+    "main.css": "/static/css/main.7abb3921.css",
+    "main.js": "/static/js/main.6750f277.js",
     "static/js/453.332b248f.chunk.js": "/static/js/453.332b248f.chunk.js",
     "static/media/matrica.png": "/static/media/matrica.31abd454928ad78aeb21.png",
     "static/media/gamespot.png": "/static/media/gamespot.78f08e1044f84c73c016.png",
@@ -12,7 +12,10 @@
     "static/media/heart.png": "/static/media/heart.6bee4eff98bc76aaf2ad.png",
     "static/media/weight.png": "/static/media/weight.49c25e3c0eadba332cb8.png",
     "static/media/mine.png": "/static/media/mine.5f1210165988b168ff1e.png",
+    "static/media/chat_bubble.png": "/static/media/chat_bubble.eef178ff6af3035a18b7.png",
+    "static/media/adult_heart.png": "/static/media/adult_heart.578584a1a4e42efce11b.png",
     "static/media/car.png": "/static/media/car.6b577605eb1b123996cd.png",
+    "static/media/casino.png": "/static/media/casino.fb7f4b9ae9f5b650b37a.png",
     "static/media/18.png": "/static/media/18.09601792ea854a0a5012.png",
     "static/media/jet.png": "/static/media/jet.da21db08d1ef1029996f.png",
     "static/media/bg.svg": "/static/media/bg.0f5347093db008960a04.svg",
@@ -53,12 +56,12 @@
     "static/media/1.svg": "/static/media/1.459baa7c9ebd6c0454c8dd01b1183171.svg",
     "static/media/ton.svg": "/static/media/ton.171d4fe03cecc6d06c2fb678a0a7d2fd.svg",
     "static/media/star.svg": "/static/media/star.55087ce20bd82d06a155716fca95bc49.svg",
-    "main.8fa4909d.css.map": "/static/css/main.8fa4909d.css.map",
-    "main.6b1dd9ee.js.map": "/static/js/main.6b1dd9ee.js.map",
+    "main.7abb3921.css.map": "/static/css/main.7abb3921.css.map",
+    "main.6750f277.js.map": "/static/js/main.6750f277.js.map",
     "453.332b248f.chunk.js.map": "/static/js/453.332b248f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fa4909d.css",
-    "static/js/main.6b1dd9ee.js"
+    "static/css/main.7abb3921.css",
+    "static/js/main.6750f277.js"
   ]
 }
