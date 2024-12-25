@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.f55dfb0e.css",
-    "main.js": "/static/js/main.95eeeca4.js",
-    "static/js/453.332b248f.chunk.js": "/static/js/453.332b248f.chunk.js",
+    "main.css": "/static/css/main.75dc6f43.css",
+    "main.js": "/static/js/main.f962a0c0.js",
+    "static/js/453.4088501a.chunk.js": "/static/js/453.4088501a.chunk.js",
     "static/media/matrica.png": "/static/media/matrica.31abd454928ad78aeb21.png",
     "static/media/gamespot.png": "/static/media/gamespot.78f08e1044f84c73c016.png",
     "static/media/bc.png": "/static/media/bc.0cf531d13f8f9626d7f3.png",
@@ -37,10 +37,21 @@
     "static/media/Inter-Black.woff2": "/static/media/Inter-Black.1e57dce8442b627a2ad2.woff2",
     "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.ef9199826f7057d46089.woff2",
     "static/media/Inter-Thin.woff2": "/static/media/Inter-Thin.01fb7294d9045e475e92.woff2",
+    "static/media/urgent_money.png": "/static/media/urgent_money.221cc8e7040411d71b7d.png",
+    "static/media/zaimer.png": "/static/media/zaimer.221cc8e7040411d71b7d.png",
     "static/media/wheel.svg": "/static/media/wheel.011a0e0be311f084a1fc577492c5cd25.svg",
+    "static/media/bystodengi.png": "/static/media/bystodengi.b36789bdc47a36258c87.png",
+    "static/media/vivus.png": "/static/media/vivus.f7a9bd5fc542123ba0f2.png",
     "static/media/1.png": "/static/media/1.671261cfdecd7da87d45.png",
+    "static/media/webzaim.png": "/static/media/webzaim.477a41a40e438897c116.png",
     "static/media/bg.png": "/static/media/bg.32c1c6903bc5a4f16a47.png",
+    "static/media/credit_plus.png": "/static/media/credit_plus.c6d698793aff3335a1eb.png",
+    "static/media/turbozaim.png": "/static/media/turbozaim.b898ffbafbd844e84180.png",
+    "static/media/webbankir.png": "/static/media/webbankir.6c71a70a1c4352516721.png",
     "static/media/rocket.svg": "/static/media/rocket.873adb60dffbdd4ff019d9a81995ad2b.svg",
+    "static/media/joymoney.png": "/static/media/joymoney.b9f9261a733375c12302.png",
+    "static/media/until_payday.png": "/static/media/until_payday.c61f9d767fd6f257fbe0.png",
+    "static/media/greenmoney_vip.png": "/static/media/greenmoney_vip.935743fe1f3beecff4a1.png",
     "static/media/2.png": "/static/media/2.1f503ad121096fa981e0.png",
     "static/media/logo.svg": "/static/media/logo.51a1702fff3320756c4de0949260c679.svg",
     "static/media/wheel-rocket.svg": "/static/media/wheel-rocket.03d2edae4289653c9df3b566512f16d2.svg",
@@ -56,12 +67,12 @@
     "static/media/1.svg": "/static/media/1.459baa7c9ebd6c0454c8dd01b1183171.svg",
     "static/media/ton.svg": "/static/media/ton.171d4fe03cecc6d06c2fb678a0a7d2fd.svg",
     "static/media/star.svg": "/static/media/star.55087ce20bd82d06a155716fca95bc49.svg",
-    "main.f55dfb0e.css.map": "/static/css/main.f55dfb0e.css.map",
-    "main.95eeeca4.js.map": "/static/js/main.95eeeca4.js.map",
-    "453.332b248f.chunk.js.map": "/static/js/453.332b248f.chunk.js.map"
+    "main.75dc6f43.css.map": "/static/css/main.75dc6f43.css.map",
+    "main.f962a0c0.js.map": "/static/js/main.f962a0c0.js.map",
+    "453.4088501a.chunk.js.map": "/static/js/453.4088501a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f55dfb0e.css",
-    "static/js/main.95eeeca4.js"
+    "static/css/main.75dc6f43.css",
+    "static/js/main.f962a0c0.js"
   ]
 }
