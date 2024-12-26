@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c38ceeb.css",
-    "main.js": "/static/js/main.4af27287.js",
+    "main.css": "/static/css/main.23c2eee8.css",
+    "main.js": "/static/js/main.21c56ee9.js",
     "static/js/453.4088501a.chunk.js": "/static/js/453.4088501a.chunk.js",
     "static/media/matrica.png": "/static/media/matrica.31abd454928ad78aeb21.png",
     "static/media/gamespot.png": "/static/media/gamespot.78f08e1044f84c73c016.png",
@@ -67,12 +67,12 @@
     "index.html": "/index.html",
     "static/media/ton.svg": "/static/media/ton.2599d17e9fcc5b8adefecc938295d51b.svg",
     "static/media/star.svg": "/static/media/star.af525ba740036506b40d6debb8d2495a.svg",
-    "main.9c38ceeb.css.map": "/static/css/main.9c38ceeb.css.map",
-    "main.4af27287.js.map": "/static/js/main.4af27287.js.map",
+    "main.23c2eee8.css.map": "/static/css/main.23c2eee8.css.map",
+    "main.21c56ee9.js.map": "/static/js/main.21c56ee9.js.map",
     "453.4088501a.chunk.js.map": "/static/js/453.4088501a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c38ceeb.css",
-    "static/js/main.4af27287.js"
+    "static/css/main.23c2eee8.css",
+    "static/js/main.21c56ee9.js"
   ]
 }
