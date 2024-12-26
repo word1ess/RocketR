@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.75dc6f43.css",
-    "main.js": "/static/js/main.15066c61.js",
+    "main.js": "/static/js/main.8f6d39f6.js",
     "static/js/453.4088501a.chunk.js": "/static/js/453.4088501a.chunk.js",
     "static/media/matrica.png": "/static/media/matrica.31abd454928ad78aeb21.png",
     "static/media/gamespot.png": "/static/media/gamespot.78f08e1044f84c73c016.png",
@@ -37,11 +37,11 @@
     "static/media/Inter-Black.woff2": "/static/media/Inter-Black.1e57dce8442b627a2ad2.woff2",
     "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.ef9199826f7057d46089.woff2",
     "static/media/Inter-Thin.woff2": "/static/media/Inter-Thin.01fb7294d9045e475e92.woff2",
-    "static/media/urgent_money.png": "/static/media/urgent_money.221cc8e7040411d71b7d.png",
     "static/media/zaimer.png": "/static/media/zaimer.221cc8e7040411d71b7d.png",
     "static/media/wheel.svg": "/static/media/wheel.011a0e0be311f084a1fc577492c5cd25.svg",
     "static/media/bystodengi.png": "/static/media/bystodengi.b36789bdc47a36258c87.png",
     "static/media/vivus.png": "/static/media/vivus.f7a9bd5fc542123ba0f2.png",
+    "static/media/urgent_money.png": "/static/media/urgent_money.842313bbc24c0dde9eb3.png",
     "static/media/1.png": "/static/media/1.671261cfdecd7da87d45.png",
     "static/media/webzaim.png": "/static/media/webzaim.477a41a40e438897c116.png",
     "static/media/bg.png": "/static/media/bg.32c1c6903bc5a4f16a47.png",
@@ -68,11 +68,11 @@
     "static/media/ton.svg": "/static/media/ton.171d4fe03cecc6d06c2fb678a0a7d2fd.svg",
     "static/media/star.svg": "/static/media/star.55087ce20bd82d06a155716fca95bc49.svg",
     "main.75dc6f43.css.map": "/static/css/main.75dc6f43.css.map",
-    "main.15066c61.js.map": "/static/js/main.15066c61.js.map",
+    "main.8f6d39f6.js.map": "/static/js/main.8f6d39f6.js.map",
     "453.4088501a.chunk.js.map": "/static/js/453.4088501a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75dc6f43.css",
-    "static/js/main.15066c61.js"
+    "static/js/main.8f6d39f6.js"
   ]
 }
