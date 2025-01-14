@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d07218ab.css",
-    "main.js": "/static/js/main.f92f9a68.js",
+    "main.js": "/static/js/main.9d54084d.js",
     "static/js/453.4088501a.chunk.js": "/static/js/453.4088501a.chunk.js",
     "static/media/matrica.png": "/static/media/matrica.31abd454928ad78aeb21.png",
     "static/media/gamespot.png": "/static/media/gamespot.78f08e1044f84c73c016.png",
@@ -68,11 +68,11 @@
     "static/media/ton.svg": "/static/media/ton.171d4fe03cecc6d06c2fb678a0a7d2fd.svg",
     "static/media/star.svg": "/static/media/star.55087ce20bd82d06a155716fca95bc49.svg",
     "main.d07218ab.css.map": "/static/css/main.d07218ab.css.map",
-    "main.f92f9a68.js.map": "/static/js/main.f92f9a68.js.map",
+    "main.9d54084d.js.map": "/static/js/main.9d54084d.js.map",
     "453.4088501a.chunk.js.map": "/static/js/453.4088501a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d07218ab.css",
-    "static/js/main.f92f9a68.js"
+    "static/js/main.9d54084d.js"
   ]
 }
