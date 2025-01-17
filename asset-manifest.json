@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.360ef7e5.css",
-    "main.js": "/static/js/main.ba775b60.js",
+    "main.css": "/static/css/main.ef5aee30.css",
+    "main.js": "/static/js/main.63d36e22.js",
     "static/js/453.4088501a.chunk.js": "/static/js/453.4088501a.chunk.js",
     "static/media/matrica.png": "/static/media/matrica.31abd454928ad78aeb21.png",
     "static/media/gamespot.png": "/static/media/gamespot.78f08e1044f84c73c016.png",
@@ -61,18 +61,20 @@
     "static/media/coin-money.svg": "/static/media/coin-money.fe3fafe362cdfe7905102ba89c609552.svg",
     "static/media/tip.svg": "/static/media/tip.3ccbb4bb59af60695d9ebc07532a4eba.svg",
     "static/media/profile.svg": "/static/media/profile.999a5142eba15c9ddeb9e1efd7a93bed.svg",
+    "static/media/ozon.svg": "/static/media/ozon.05785bf3106fb4e58d838640ecfc5981.svg",
     "index.html": "/index.html",
     "static/media/wallet.svg": "/static/media/wallet.4be26bd5056bb6bb9614fea30331fe81.svg",
+    "static/media/iphone.svg": "/static/media/iphone.3a33312374f293b8aabc116d6ae4241c.svg",
     "static/media/cancel.svg": "/static/media/cancel.4e33a36db87d8cdadc63b2f9d91eeb88.svg",
     "static/media/1.svg": "/static/media/1.459baa7c9ebd6c0454c8dd01b1183171.svg",
     "static/media/ton.svg": "/static/media/ton.171d4fe03cecc6d06c2fb678a0a7d2fd.svg",
     "static/media/star.svg": "/static/media/star.55087ce20bd82d06a155716fca95bc49.svg",
-    "main.360ef7e5.css.map": "/static/css/main.360ef7e5.css.map",
-    "main.ba775b60.js.map": "/static/js/main.ba775b60.js.map",
+    "main.ef5aee30.css.map": "/static/css/main.ef5aee30.css.map",
+    "main.63d36e22.js.map": "/static/js/main.63d36e22.js.map",
     "453.4088501a.chunk.js.map": "/static/js/453.4088501a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.360ef7e5.css",
-    "static/js/main.ba775b60.js"
+    "static/css/main.ef5aee30.css",
+    "static/js/main.63d36e22.js"
   ]
 }
