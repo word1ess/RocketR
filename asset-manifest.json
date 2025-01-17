@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef5aee30.css",
-    "main.js": "/static/js/main.63d36e22.js",
+    "main.css": "/static/css/main.1ba55bda.css",
+    "main.js": "/static/js/main.5872a51f.js",
     "static/js/453.4088501a.chunk.js": "/static/js/453.4088501a.chunk.js",
+    "static/media/bitstarz.png": "/static/media/bitstarz.448d04581e19b246b089.png",
     "static/media/matrica.png": "/static/media/matrica.31abd454928ad78aeb21.png",
     "static/media/gamespot.png": "/static/media/gamespot.78f08e1044f84c73c016.png",
     "static/media/bc.png": "/static/media/bc.0cf531d13f8f9626d7f3.png",
@@ -10,15 +11,29 @@
     "static/media/eye.png": "/static/media/eye.dac98e8c9e37c0d8bb26.png",
     "static/media/unity.png": "/static/media/unity.367a1ea254d51f2fc8c0.png",
     "static/media/heart.png": "/static/media/heart.6bee4eff98bc76aaf2ad.png",
+    "static/media/paying_jobs.png": "/static/media/paying_jobs.1dc8be10fcf9388a96c9.png",
     "static/media/weight.png": "/static/media/weight.49c25e3c0eadba332cb8.png",
+    "static/media/bankruptcy_course.png": "/static/media/bankruptcy_course.22da6e796433987785d6.png",
     "static/media/mine.png": "/static/media/mine.5f1210165988b168ff1e.png",
+    "static/media/mine.jpg": "/static/media/mine.62c997bb6413a8ce2b4c.jpg",
+    "static/media/matrica.jpg": "/static/media/matrica.8853ced5ac018ad46a11.jpg",
     "static/media/chat_bubble.png": "/static/media/chat_bubble.eef178ff6af3035a18b7.png",
     "static/media/adult_heart.png": "/static/media/adult_heart.578584a1a4e42efce11b.png",
     "static/media/car.png": "/static/media/car.6b577605eb1b123996cd.png",
     "static/media/casino.png": "/static/media/casino.fb7f4b9ae9f5b650b37a.png",
     "static/media/18.png": "/static/media/18.09601792ea854a0a5012.png",
+    "static/media/jet.jpg": "/static/media/jet.10b0f40caf297204a767.jpg",
+    "static/media/bitstarz.jpg": "/static/media/bitstarz.9dbf6a86b5ead20ec075.jpg",
+    "static/media/paying_jobs.jpg": "/static/media/paying_jobs.e4eadd2f1c261f7456a2.jpg",
     "static/media/jet.png": "/static/media/jet.da21db08d1ef1029996f.png",
+    "static/media/chat_bubble.jpg": "/static/media/chat_bubble.7ca8732102a90f65911b.jpg",
     "static/media/bg.svg": "/static/media/bg.0f5347093db008960a04.svg",
+    "static/media/weight.jpg": "/static/media/weight.cdde9e7c831a83a4221a.jpg",
+    "static/media/bankruptcy_course.jpg": "/static/media/bankruptcy_course.52ff7df17217c06c7828.jpg",
+    "static/media/1w.jpg": "/static/media/1w.ace7ce467cf7a36794c0.jpg",
+    "static/media/car.jpg": "/static/media/car.0b815610006f0c5260a1.jpg",
+    "static/media/18.jpg": "/static/media/18.4949d92bab715b1f9e83.jpg",
+    "static/media/heart.jpg": "/static/media/heart.a6d836ef41aa3422a2b1.jpg",
     "static/media/Inter-Black.woff": "/static/media/Inter-Black.0cb9ca1b649c118ffa52.woff",
     "static/media/Inter-ExtraBold.woff": "/static/media/Inter-ExtraBold.bf972351966f8ff4e434.woff",
     "static/media/Inter-Bold.woff": "/static/media/Inter-Bold.53e4cb5aefd0b78fa7b5.woff",
@@ -69,12 +84,12 @@
     "static/media/1.svg": "/static/media/1.459baa7c9ebd6c0454c8dd01b1183171.svg",
     "static/media/ton.svg": "/static/media/ton.171d4fe03cecc6d06c2fb678a0a7d2fd.svg",
     "static/media/star.svg": "/static/media/star.55087ce20bd82d06a155716fca95bc49.svg",
-    "main.ef5aee30.css.map": "/static/css/main.ef5aee30.css.map",
-    "main.63d36e22.js.map": "/static/js/main.63d36e22.js.map",
+    "main.1ba55bda.css.map": "/static/css/main.1ba55bda.css.map",
+    "main.5872a51f.js.map": "/static/js/main.5872a51f.js.map",
     "453.4088501a.chunk.js.map": "/static/js/453.4088501a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef5aee30.css",
-    "static/js/main.63d36e22.js"
+    "static/css/main.1ba55bda.css",
+    "static/js/main.5872a51f.js"
   ]
 }
