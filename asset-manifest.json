@@ -1,8 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.b517dada.css",
-    "main.js": "/static/js/main.524f245d.js",
+    "main.js": "/static/js/main.639f2cc9.js",
     "static/js/453.4088501a.chunk.js": "/static/js/453.4088501a.chunk.js",
+    "static/media/7kcasino.png": "/static/media/7kcasino.50bd69245bf67575d604.png",
+    "static/media/smotrishka.png": "/static/media/smotrishka.245342525b8040ee232e.png",
+    "static/media/news.png": "/static/media/news.a9acee400d5382e11b1b.png",
+    "static/media/aviasales.png": "/static/media/aviasales.6b2af3d7eae8c37dcd8f.png",
     "static/media/bc.webp": "/static/media/bc.9650092f2ea1426e65e8.webp",
     "static/media/bg.svg": "/static/media/bg.0f5347093db008960a04.svg",
     "static/media/eye.webp": "/static/media/eye.5e8d45326d814a495a31.webp",
@@ -26,9 +30,13 @@
     "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.ef9199826f7057d46089.woff2",
     "static/media/Inter-Thin.woff2": "/static/media/Inter-Thin.01fb7294d9045e475e92.woff2",
     "static/media/3.webp": "/static/media/3.b7153e6e76655f2bf426.webp",
+    "static/media/7kcasino.webp": "/static/media/7kcasino.851f7b7027274a17130a.webp",
+    "static/media/smotrishka.webp": "/static/media/smotrishka.6d854ad2b11769fa91be.webp",
     "static/media/1.webp": "/static/media/1.9b2ce0876ff515f1a084.webp",
     "static/media/4.webp": "/static/media/4.bd49eb388b87b5051693.webp",
+    "static/media/aviasales.webp": "/static/media/aviasales.14b395db07812dd64017.webp",
     "static/media/casino.webp": "/static/media/casino.45f85c9ba6515df77ddd.webp",
+    "static/media/news.webp": "/static/media/news.797aa20c87d46b0eeff3.webp",
     "static/media/matrica.png": "/static/media/matrica.f0c6f70cc90f55229534.png",
     "static/media/unity.webp": "/static/media/unity.b1089510b67614216407.webp",
     "static/media/wheel.svg": "/static/media/wheel.011a0e0be311f084a1fc577492c5cd25.svg",
@@ -92,11 +100,11 @@
     "static/media/ton.svg": "/static/media/ton.171d4fe03cecc6d06c2fb678a0a7d2fd.svg",
     "static/media/star.svg": "/static/media/star.55087ce20bd82d06a155716fca95bc49.svg",
     "main.b517dada.css.map": "/static/css/main.b517dada.css.map",
-    "main.524f245d.js.map": "/static/js/main.524f245d.js.map",
+    "main.639f2cc9.js.map": "/static/js/main.639f2cc9.js.map",
     "453.4088501a.chunk.js.map": "/static/js/453.4088501a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b517dada.css",
-    "static/js/main.524f245d.js"
+    "static/js/main.639f2cc9.js"
   ]
 }
